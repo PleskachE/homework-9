@@ -1,0 +1,16 @@
+
+*.db
+*.opendb
+*.ipch
+*.sln
+*.user
+*.filters
+.vs/homework-9/v15/.suo
+Новый текстовый документ.txt
+*.exe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.obj
+*.idb
